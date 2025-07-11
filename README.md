@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Utkarsh Panchal
 
-<!--
-**utkarsh-90/utkarsh-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- MS in Information Technology (Data & AI) @ ASU
+- Building with Python, ML, and cloud tools
+- Interested in applied AI, ML research, and software engineering
+- Always learning, sharing, and keeping things simple
 
-Here are some ideas to get you started:
+📫 utkarshpanchal834@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+LinkedIn: https://www.linkedin.com/in/utkarshpanchal90
 -->
+
+> "Simple is scalable."
+
